@@ -1,0 +1,58 @@
+name - String - IA Labs
+industry - String - edtech
+incorporationName - String - Indlabs COnsulting pvt Ltd
+about - String - description about company
+logo - String url 
+investors: [String]
+foundedOn: date
+officeLocation: String
+geography: String
+website: String 
+fundingHistory: [ {
+    check from funds
+}]
+pressReleases: [{
+    press.js
+}]
+businessModel - enum String - Saas, Ecomm, 
+founders: {
+    qualification,
+    college,
+    category,
+    gender,
+    dob,
+    name,
+    designation,
+    dateJoined
+}
+preMoneyValuation: Number	
+discountToValuation: Number
+valuationCertifedBy: String
+currentlyRaising: Boolean
+
+
+--------------------------------
+
+user-roles
+    founder
+    investor
+    shareholder
+
+
+----- Functionalities for MVP / DAY 1
+as a investor
+details of startup
+filters on listings
+submit interest
+my interested listings
+
+
+
+
+criteria to search company
+	based on category/industry -  e,g edtech, 
+	business model
+	Geography
+	Funding stage
+	Valuation
+	startup age

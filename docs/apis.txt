@@ -1,0 +1,20 @@
+
+get: listings
+post: listings
+
+
+get  listings/:id
+patch listings/:id
+delete listings/:id
+
+
+user role only 2 admin investor 
+
+get: users
+post: users
+delete users
+
+
+get  users/:id/:orgid
+patch users/:id/:orgid
+delete users/:id/:orgid
