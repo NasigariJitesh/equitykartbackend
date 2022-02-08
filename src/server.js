@@ -6,7 +6,6 @@ const mongoose = require('mongoose');
 
 const PORT = process.env.PORT || 3000;
 const dbUrl = process.env.DB_URL.replace('<password>', process.env.Password);;
-
 //database connect
 mongoose.connect(dbUrl, {
   useNewUrlParser: true,
