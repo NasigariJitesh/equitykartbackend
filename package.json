@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "dev":"nodemon app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app/app.js",
+    "dev":"nodemon app/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":"heroku container:push web -a equitykartbackend && heroku container:release web -a equitykartbackend"
   },
   "keywords": [],
   "author": "",
