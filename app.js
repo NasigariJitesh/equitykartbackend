@@ -4,8 +4,8 @@ const adminRouter = require(`./routes/adminRoutes`);
 const organisationsRouter = require(`./routes/organisationsRoutes`);
 const mongoSanitize = require("express-mongo-sanitize");
 const erroHandler = require("./controllers/errorController");
-const dotenv = require('dotenv');
-dotenv.config({ path: `${__dirname}/config.env` });
+const dotenv = require('dotenv').config();
+
 
 const cors = require("cors");
 
