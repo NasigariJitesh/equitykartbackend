@@ -1,0 +1,2268 @@
+[
+    {
+        "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEC7j3_PQTlPw/company-logo_200_200/0/1598054396808?e=2159024400&v=beta&t=GRRoGh_WAKq0uIg4TyGy39BdKCi1UU26WVLoToKLIzg",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3dc",
+        "brand_name": "Prophaze Technologies",
+        "company_domain": "cybersecurity",
+        "registered_name": "Prophaze Technologies Pvt Ltd",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Prophaze is a next generation web security company. The company offers a behaviour/ML based easy to deploy web application firewall company(WAF) . Prophaze is natievly built on Kubernetes platform",
+        "foundedOn": "17/06/2019",
+        "office_location": "Kerela, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3dc"
+    },
+    {
+        "logo": "https://play-lh.googleusercontent.com/brmCIHrvz1Z7dEUskGLA_hJLsfORtU0LH8SFZ_ryGbb-_xkwrp7kxB22nb-GOWuOwNc",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3dd",
+        "brand_name": "Arivihan",
+        "company_domain": "Ed-Tech",
+        "registered_name": "Arivihan Technologies Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Arivhan is making high-quality, 1 on 1, interactive and personalized education affordable to everyone. Our platform contains one of its kind ‘Pseudo Live lectures’ which are actually pre-recorded but still interact with students, solve their queries and change the lecture content according to each student’s competence, enhancing their experience. With minimum human involvement, we plan to leverage the current infrastructure with big data and artificial intelligence for bringing down the cost to 1/10 time which helps us to make this ecosystem more accessible and affordable to the broader markets.",
+        "foundedOn": "23/10/2019",
+        "office_location": "Indore, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3dd"
+    },
+    {
+        "logo": "https://media-exp1.licdn.com/dms/image/C560BAQGyDwD3_MHlzA/company-logo_200_200/0/1601698367193?e=2159024400&v=beta&t=TI_6NEwiSMqYmztR-npzRVvS7I3NJA8R4n6QoTpWZro",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3df",
+        "brand_name": "mHealth",
+        "company_domain": "healthtech",
+        "registered_name": "Steering Lives India Pvt Limited",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "mHealth.ai by Steering Lives is AI powered integrated digital Wellness platform for B2B customers which serves as a meeting point between healthcare experts and customers.\nOur multiple expert support and open architecture make the platform unique in the market Our Integrated nutriexpert platform helps nutrition & Wellness coach to go digital with their own brand and mHealth to helps them to generate revenue opportunities through Corporates & Community.",
+        "foundedOn": "09/06/20",
+        "office_location": "Gurgaon, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3df"
+    },
+    {
+        "logo": "https://www.grouple.in/wp-content/themes/twentytwenty/assets/favicon/Grouple.jpeg",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3de",
+        "brand_name": "Grouple",
+        "company_domain": "Entertainment",
+        "registered_name": "Ghosh Technology Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Group experience platform that helps you save Time, Effort and Sanity. Book a group experience platform that helps you save Time, Effort and Sanity. Book a\nmemorable experience for your birthday, anniversary, team celebration or simply to entertain yourselves.",
+        "foundedOn": "29/01/2020",
+        "office_location": "Mumbai, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3de"
+    },
+    {
+        "logo": "https://naturestattva.com/wp-content/uploads/2019/03/natures-tattva-logo-in-circle.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3e0",
+        "brand_name": "Nature's Tattva",
+        "company_domain": "Beauty",
+        "registered_name": "Mikasa Products Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Nature's Tattva is India's first and only DIY Beauty brand. We give you the raw material, with easy DIY tutorials, and you make your own cosmetics, suited to your skin and hair type. Customized to the T. Since we provide the raw materials, and you do the blending, there is no way that unwanted chemicals would crop into your beauty products without your permission. Our products individually have shelf life of 14-24 months. When mixed, they start reacting and their shelf life reduces to 3-4 months. So you can blend/mix the ingredients in smaller quantities so that the remaining ingredients remain fresh and your blend/mixture can be used within the specified time frame.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3e0"
+    },
+    {
+        "logo": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=555040017937332",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3e2",
+        "brand_name": "Prophaze",
+        "company_domain": "Cyber Security",
+        "registered_name": "Prophaze Technologies Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Prophaze is Kubernetes native, securing Kubernetes deployments without the learning curve or complexity, and in zero downtime. The company's WAF service is an economical alternative to the high costs of deploying and maintaining WAF on-premise, and reduce the burden from DevOps to monitor endless alerts and manual tuning. Their WAF service protects your web assets from all cyber threats, bots, attacks, misconfiguration, and patches vulnerabilities in your infrastructure, internal or 3rd party apps and APIs.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3e2"
+    },
+    {
+        "logo": "https://www.cisecurity.org/wp-content/uploads/2020/10/SecLogic-e1609952154672.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3e1",
+        "brand_name": "Seclogic",
+        "company_domain": "Cyber Security",
+        "registered_name": "Seclogic Technologies Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "SecLogic is focused to democratize cyber security adoption roadmap for CXO’s with an aim to be a trusted go-to technology cyber security ISV. SecLogic offers primarily two products under the umbrella of CYBERQ which includes cloud security posture management (CSPM) and people assessment i.e. multi-channel continuous phishing simulation & training. Product(s) have key features like multi-cloud (AWS, Azure & GCP) security assessment, automated remediation, multi-channel phishing simulation & training, anti-phishing & threat intelligence. SecLogic is also a proud member of Center for Internet Security, Inc. (CIS®), responsible for the CIS Controls® and CIS Benchmarks™, globally recognized best practices for securing IT systems and data.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3e1"
+    },
+    {
+        "logo": "Ser",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3e3",
+        "brand_name": "AtServe",
+        "company_domain": "Water Distribution",
+        "registered_name": "Countrylad innovations pvt. ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "AtServe is a door-step service providing vendors to manage customers, orders, feedbacks and sales. On the other side, helping customers to reach out services from local vendors which are cost effective and professional. We are the one step solution for you regular needs such as 20L RO water Bottles, Laundry, Vegetables and Dairy items fulfilled by your local vendors.",
+        "foundedOn": "01/10/2018",
+        "office_location": "Noida, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3e3"
+    },
+    {
+        "logo": "https://media-exp1.licdn.com/dms/image/C510BAQHyiuaWPIo2dw/company-logo_200_200/0/1572869984447?e=2159024400&v=beta&t=qV_CwgCKtzpgGYWmE3lDdlGoReLq6DjXZymkPrl9PQw",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3e4",
+        "brand_name": "Deliver Fuels",
+        "company_domain": "abc",
+        "registered_name": "Deliverfuel Solutions Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3e4"
+    },
+    {
+        "logo": "https://uploads-ssl.webflow.com/5f5883370f915e4e20ded68e/5f78184365ebcbb7e8da8df7_getwork_new%20(1).png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3e5",
+        "brand_name": "GetWork",
+        "company_domain": "Ed-Tech & HR Tech",
+        "registered_name": "Veerwal Getwork services Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "GetWork aims to create a network of colleges to become the central placement platform for companies to hire college students and fresh graduates (0-3 Years Experience), taking this process online. The concept of students creating robust profiles on GetWork is very appealing as it aims to become a marketplace for interns and first-time jobseekers. GetWork solves a major pain point by creating a two-way marketplace to give universities access to companies & startups. In turn, these companies get access to the best students regardless of their location.",
+        "foundedOn": "",
+        "office_location": "Gurgaon, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3e5"
+    },
+    {
+        "logo": "https://static.wixstatic.com/media/b1c4ed_2486bc8dc8e44a24afae2323a2091081~mv2.png/v1/fill/w_168,h_168,al_c,q_85,usm_0.66_1.00_0.01/Horeca%20Stop%20Logo%20Final.webp",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3e6",
+        "brand_name": "Horeca Stop",
+        "company_domain": "Hospitality",
+        "registered_name": "Chaneph Business Solution Private Limited",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Horeca Stop is a one-stop Omnichannel procurement platform providing SAAS and Ecommerce to solve the procurement problem of Hospitality Industry. Horeca stop has a vision of automating the procurement process in F&B Industry, and Provides a unique end to end Solution of Supply chain Management, Inventory Ordering, distribution management, Logistics management and product sourcing and facilitating the credit access for buyers.",
+        "foundedOn": "11/12/2018",
+        "office_location": "Noida,Sector 63, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3e6"
+    },
+    {
+        "logo": "https://s3.amazonaws.com/zaubatrademarks/2f8e86e3-678d-4137-bd32-22b462f8083d.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3e7",
+        "brand_name": "Minzo",
+        "company_domain": "M Commerce",
+        "registered_name": "Minzo India Private Limited",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "MinzoIndia is a leading B2B online footwear marketplace and we have acquired a reputation of being quality manufacturers and trustworthy footwear wholesalers that offer the best prices on the market. It is a web platform where the workmen can directly sell their products and the wholesalers and retailers can buy them at competitive prices.",
+        "foundedOn": "01/09/18",
+        "office_location": "Agra, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3e7"
+    },
+    {
+        "logo": "https://images.yourstory.com/cs/images/companies/380139982527156721228575236573300087324672o-1594363098928.jpg?fm=png&auto=formatar=1:1&mode=fill&fill=solid",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3e8",
+        "brand_name": "Brainwired",
+        "company_domain": "Agri-tech",
+        "registered_name": "Drakon Inovations Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Brainwired is an Agri-tech startup that is developing a Livestock Health Monitoring and Tracking System named WeSTOCK for Indian farmers to help them earn more income by reducing their present expenses.Brainwired was started with a vision to make livestock farming easier and more profitable by leveraging technology to make data-driven decisions.",
+        "foundedOn": "01/02/2018",
+        "office_location": "Kochi, kerala",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3e8"
+    },
+    {
+        "logo": "https://cdn.shopify.com/s/files/1/0064/7004/1655/files/Organic-Brews-Logo-2-11th-Dec_dfd9df2b-6e36-4a73-b383-ff57170ab070.jpg?height=628&pad_color=ffffff&v=1607682782&width=1200",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3e9",
+        "brand_name": "Organic Brews",
+        "company_domain": "FMCG, Agritech",
+        "registered_name": "Skinny Herbs Beverages Private Limited",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Organic Brews crafts green tea brand to provide a go-to daily beverage for a growing health-conscious population. It is a modern, premium-affordable and healthy+tasty beverage that comes in 4 variants: Anytime Teatox, The Oomph Factor, Power Refresh, Classic Green",
+        "foundedOn": "15/08/20",
+        "office_location": "Noida, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3e9"
+    },
+    {
+        "logo": "https://dhurina.net/dhurinanew/images/logo.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3ea",
+        "brand_name": "Dhurina",
+        "company_domain": "Ed-Tech",
+        "registered_name": "Dhurina Venturs Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Dhurina is an e-Learning platform that helps Students to get premium quality education at affordable prices. Our main focus is to help students living in Tier 3 or Rural Areas where they are not able to get a quality education because of a lack of Institutional Infrastructure. We are connecting TOP Teachers from India to students at affordable price. Dhurina has crossed more than 400K+ Users and currently serving for Haryana, Rajasthan and Madhya Pradesh locations.",
+        "foundedOn": "15/06/2019",
+        "office_location": "Fatehabad",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3ea"
+    },
+    {
+        "logo": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/uyhfywa0gux074dsvsiq",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3eb",
+        "brand_name": "VAPP",
+        "company_domain": "AR/VR",
+        "registered_name": "Virtuality Innoventure Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "VAPP is a VR/AR Platform used for real estate and tourism industry. They are using immersive visualization in tourism and real estate, enabling viewers to experience placesandhotelsmoreauthenticallyand realistically.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3eb"
+    },
+    {
+        "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQH8YoOhp3Nmog/company-logo_200_200/0/1597565144339?e=2159024400&v=beta&t=xYsgGdTDglhT3EhyvpfdSoWRXM5Ot3uCk6Hs9bouwyw",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3ec",
+        "brand_name": "DROR",
+        "company_domain": "Security",
+        "registered_name": "Dror Labs Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "One female gets sexually abused every 3 minutes in India! We combined the power of social network and technology to create a safety network. DROR is designed using Human Centered Design technique",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3ec"
+    },
+    {
+        "logo": "https://www.galaxycard.in/img/logo.svg",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3ed",
+        "brand_name": "Galaxy Card",
+        "company_domain": "Fintech",
+        "registered_name": "GCT technologies Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "GalaxyCard is a mobile-based Instant Credit Card. Compared to a regular credit card application which takes around 3-4 weeks, GalaxyCard users make their first purchase in just 3 minutes, without having to upload any documents.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3ed"
+    },
+    {
+        "logo": "https://cdn.shopify.com/s/files/1/1806/1451/files/newlogo_large.png?v=1498108755",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3ee",
+        "brand_name": "Recycle.Green",
+        "company_domain": "Recycled Products",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Recycle.green is an online marketplace selling recycled products in categories like home decor, office and stationary, apparel, gifts, event essentials, and travel essentials",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3ee"
+    },
+    {
+        "logo": "https://quali55care.com/wp-content/uploads/2019/12/logo2-1.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3ef",
+        "brand_name": "Quali55Care",
+        "company_domain": "Healthcare",
+        "registered_name": "Quali5care and Consulting Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Quali5Care And Consulting Private Limited (“Quali55Care”) is India’s first of its kind online platform providing durable medical equipment on rental and sale platform, providing one-stop solutions for home and hospitals.",
+        "foundedOn": "22/11/18",
+        "office_location": "Vidyavihar east",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3ef"
+    },
+    {
+        "logo": "https://mma.prnewswire.com/media/527780/Ingenium___Canada_s_Museums_of_Science_and_Innovation_Ingenium_l.jpg?p=publish",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3f0",
+        "brand_name": "Ingenium",
+        "company_domain": "Ed-Tech",
+        "registered_name": "Gapspasm Technology Solutions Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "World’s first macro skill based adaptive assessment solution for K-12 students. Their adaptive students learning technology identifies the students learning gap through various data points & knowledge mapping. Also provide personalized homework facilities to each student to bridge the learning gap.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3f0"
+    },
+    {
+        "logo": "https://sgp1.digitaloceanspaces.com/quickcompany/trademark/33895938c07f4359.jpg",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3f1",
+        "brand_name": "Ingreens",
+        "company_domain": "Agritech",
+        "registered_name": "Hyperion Agro Sciences Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Ingreens is an indoor farming company with a vision of creating a Pan India Fresh Foods Brand in the Exotics Greens. Ingreens operates one of India's first commercial indoor vertical farms, using modern precision farming techniques to bring the freshest, cleanest and most nutritious leafy and microgreens to our customers in Chandigarh, Panchkula and Mohali.",
+        "foundedOn": "20/6/18",
+        "office_location": "Chandigarh, Mohali",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3f1"
+    },
+    {
+        "logo": "https://media-exp1.licdn.com/dms/image/C510BAQH6qPunA_n8CQ/company-logo_200_200/0/1536150103237?e=2159024400&v=beta&t=6LIvIhjPFd6BiGXxMCLH7gAuhK5IBoJZ_rY-t8GjQVE",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3f2",
+        "brand_name": "Playtoome",
+        "company_domain": "Media & Entertainment",
+        "registered_name": "PTM Digital Connect Pv. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Playtoome is a live entertainment destination. Watch concerts and live performances, such as dance, music, and drama, as they happen.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3f2"
+    },
+    {
+        "logo": "https://media-exp1.licdn.com/dms/image/C560BAQGlDM-1DqBfXA/company-logo_200_200/0/1519905922586?e=2159024400&v=beta&t=mbdOdkFEeA8BmX5QUvbSmJXAiFpVUArbswEWe2x-9hc",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3f3",
+        "brand_name": "Lawyered",
+        "company_domain": "Legal",
+        "registered_name": "Sproutech Solutions Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Lawyered helps advancing the “Rule of Law\" by helping clients decode requirements and provide them an effective solution by connecting them to Reputed & reliable legal professionals. It is a discovery platform which connects corporate lawyers to businesses, SMEs.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3f3"
+    },
+    {
+        "logo": "https://techstory.in/wp-content/uploads/2018/01/kuants.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3f4",
+        "brand_name": "Kuants",
+        "company_domain": "Algo Trading",
+        "registered_name": "Meanbox Technologies Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Kuants is India's First & only Financial-Tech Stock Trading platform designed to offer retail &\ninstitutional customers the development and automation of trading and investment strategies.\nKuants offers the complete backtesting system to develop trading strategies through simple clicks\nand an expression-based format using which trading strategy development and deployment is\npossible for stock traders and investors within a few minutes.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3f4"
+    },
+    {
+        "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFIUw96ctWz2w/company-logo_200_200/0/1568646037860?e=2159024400&v=beta&t=aKQRS4jO0--TjyalOcBouBlFZsXEVg2hfcz4KzZeqg8",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3f5",
+        "brand_name": "IAC",
+        "company_domain": "abc",
+        "registered_name": "IA Accel Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3f5"
+    },
+    {
+        "logo": "https://ialabs.co.in/wp-content/uploads/2020/10/Dark_logo.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3f6",
+        "brand_name": "IA Labs",
+        "company_domain": "Ed-Tech",
+        "registered_name": "IndLabs Consulting Pvt ltd",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "IA Labs is an Edutech startup that helps in bringing disruptive digital learning solutions to drive competitive business agility. We solve real learning problems for businesses. The kind of problems that stand in the way of outstanding innovation, market leading products, delighted customers and high performing teams.\nOur unique ecosystem provides industry relevant programs which accelerates digital learning and transformation at your workplace. Based out of Gurgaon, IA Labs has been at the forefront of working with MNCs, IT Services and Startups alike to help their talent learn, explore and grow.",
+        "foundedOn": "10/01/21",
+        "office_location": "Gurgaon, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3f6"
+    },
+    {
+        "logo": "https://www.mobigarage.com/images/logo.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3f7",
+        "brand_name": "Mobigarage",
+        "company_domain": "abc",
+        "registered_name": "Fuevation Technologies LLP",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Mobigarage is India's leading portal that aims to cater to every individual and organization and\nprovide them mobile repair and spare-part solutions at their doorstep at their convenience.\nMobiGarage provides its services in over 15,000 Pin Codes in India.",
+        "foundedOn": "10/03/21",
+        "office_location": "Gurgaon, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3f7"
+    },
+    {
+        "logo": "https://e27.co/img/startups/25475/logo-1537179794.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3f8",
+        "brand_name": "Bean Bag Theory Media",
+        "company_domain": "Entertainment",
+        "registered_name": "Bean Bag Theory Media Pvt Ltd",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Kachcha Chittha is a modern day news channel, which goes the extra mile to unravel the facades of\nthe society. It is a creative and exuberant Social Media platform that connects with its audience\nthrough News, Articles, Videos and Write-ups. Their award winning website has more than 100k\nmonthly traffic on it with more than 1Million likes on Facebook and 30K subscribers on YouTube.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3f8"
+    },
+    {
+        "logo": "https://cdn.shopify.com/s/files/1/1806/1451/t/2/assets/sco_logo.png?v=1298623268892481383",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3f9",
+        "brand_name": "Innovate Green",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3f9"
+    },
+    {
+        "logo": "https://media-exp1.licdn.com/dms/image/C560BAQG80JbOGiSapg/company-logo_200_200/0/1551459162880?e=2159024400&v=beta&t=KlmayjANS6CXt_Rea9CiSHJ1ES3W-0LxsMEZgknZ8M8",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3fa",
+        "brand_name": "Quali5care",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Quali5Care And Consulting Private Limited (“Quali55Care”) is India’s first of its kind online platform\naiming to deliver highly durable & affordable medical equipment on rental and sale. Their\ntechnology- driven online & offline platform (e-store & physical store) brings a wide spectrum of\nquality medical equipment at your location.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3fa"
+    },
+    {
+        "logo": "https://www.highiq.ai/wp-content/uploads/2020/07/Linkedin_logo_square.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3fb",
+        "brand_name": "HighIQ",
+        "company_domain": "abc",
+        "registered_name": "Hi Iq Digital Media Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "HighIQ is a Content creating platform which aims to become a one stop entertainment\nsolution for Millennials & Gen-z with relatable curated content from all domains including\nentertainment, healthy lifestyle tips, delicious food recipes and great music. They have\nover 6 lacs Subscribers on Youtube, a community of 4.5 lac people on Facebook and\nabout 35 thousand followers on Instagram so far.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3fb"
+    },
+    {
+        "logo": "https://sgp1.digitaloceanspaces.com/quickcompany/trademark/81ab215b157357ec.jpg",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3fc",
+        "brand_name": "My game mate(MGM)",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3fc"
+    },
+    {
+        "logo": "https://gotomobility.in/images/generic/GoTo_logo_header.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3fd",
+        "brand_name": "Goto",
+        "company_domain": "abc",
+        "registered_name": "Gotomobility Services Private Limited",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3fd"
+    },
+    {
+        "logo": "https://fitbuddy.co.in/static/media/logo.149a868a.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3fe",
+        "brand_name": "Fitbuddy",
+        "company_domain": "Sports, Deeptech",
+        "registered_name": "E-Trainer Analytics Wizard Pvt. Ltd",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Fit Buddy is a ‘personalized training and monitoring’ mobile application which utilizes Computer\nVision & Deep Learning algorithms to provide personalized training experience to sports & fitness\nenthusiasts and empower them to transform into world class athletes and performers",
+        "foundedOn": "16/07/2020",
+        "office_location": "Delhi, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3fe"
+    },
+    {
+        "logo": "https://cdn.shopify.com/s/files/1/0064/7004/1655/files/Organic-Brews-Logo-2-11th-Dec_dfd9df2b-6e36-4a73-b383-ff57170ab070.jpg?height=628&pad_color=ffffff&v=1607682782&width=1200",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b3ff",
+        "brand_name": "Organic Brews",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Organic Brews is Gurgaon’s most trusted Japanese organic groceries brand. They are linking\nhealth-conscious consumers with local farmers who require a marketplace to sell their products to\nbring trust and safe-food for you. They provide pesticide-free vegetables and fruits delivered at\nyour doorsteps. Their uniqueness is that they deliver within 24 hours from the harvests. They offer a\nwide range of products such as meats, cheese, natural and healthy processed foods",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b3ff"
+    },
+    {
+        "logo": "https://media-exp1.licdn.com/dms/image/C560BAQGxmokK0jGYlw/company-logo_200_200/0/1519875603470?e=2159024400&v=beta&t=MLk8guo8UhL2Rx8eORgqzRj5VTTAkxTC297zxlKrIjg",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b400",
+        "brand_name": "GatewayVR",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "GatewayVR is leading the digital transformation of India's Interior Design ecosystem through their\nproduct showcase platform - ProjectMX - which includes a real-time interior layout and visualisation\nsoftware. They empower Interior Designers & Architects to instantly create interior layouts in 2D, 3D\nand VR with “available in the market” products and concepts!",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b400"
+    },
+    {
+        "logo": "https://www.hypermine.in/wp-content/uploads/2019/12/vid_verlay.jpg",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b402",
+        "brand_name": "Hypermine",
+        "company_domain": "abc",
+        "registered_name": "Hypermine Technologies Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Hypermine is an avant-garde technology and research organization that is dedicated to building\ntrust and transparency in the real world by building smart tools and protocols for Identity, Payment\n& Security, with their roots in Distributed Systems, Machine Learning & Public Key Cryptography.\nTheir vision is to create a world where privacy is a fundamental right, where our data is secure and\nbelongs to us.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b402"
+    },
+    {
+        "logo": "http://img1.wsimg.com/isteam/ip/dd186539-c63c-4f94-9788-9ab2ed852b9e/logo/e3bde2dc-df1a-4500-866b-c57182d983ba.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b401",
+        "brand_name": "Wardrobe",
+        "company_domain": "abc",
+        "registered_name": "BAILIWICK GLOBAL TECHALOG PRIVATE LIMITED",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b401"
+    },
+    {
+        "logo": "https://sgp1.digitaloceanspaces.com/quickcompany/trademark/33895938c07f4359.jpg",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b405",
+        "brand_name": "Hyperion Agro sciences(Ingreens)",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Ingreens is an indoor farming company with a vision of creating a Pan India Fresh Foods\nBrand in the Exotics Greens. Ingreens operates one of India's first commercial indoor\nvertical farms, using modern precision farming techniques to bring the freshest, cleanest\nand most nutritious leafy and microgreens to their customers in Chandigarh, Panchkula\nand Mohali.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b405"
+    },
+    {
+        "logo": "https://media-exp1.licdn.com/dms/image/C510BAQHDDDd18y4I9w/company-logo_200_200/0/1533735619660?e=2159024400&v=beta&t=D0yxbq1xLkvPCCPdYjCzK1vWW3shtVpuupL6LPwFUmE",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b403",
+        "brand_name": "Ubiqc",
+        "company_domain": "abc",
+        "registered_name": "UBQ Innovations Pvt. Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Ubiqc is committed towards making the lives of masses simpler through innovations.It enables\nenterprises to map the End-to-End customer journey across a shared app. It fosters pre sales\nengagement, sales, post sales engagement, brand reinforcement, customer retention etc. The\naggregated sector agnostic ecosystem is an opportunity for brands to expand their business, as\nwell as a universe of exciting journeys for users.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b403"
+    },
+    {
+        "logo": "https://astechnolutions.com/images/ASLogo_Final(1024x1204).png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b404",
+        "brand_name": "AS Technolutions",
+        "company_domain": "abc",
+        "registered_name": "AS Technolutions Private Limited",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "",
+        "foundedOn": "24/01/2017",
+        "office_location": "Gurgaon, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b404"
+    },
+    {
+        "logo": "https://www.technisanct.com/images/logo.svg",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b406",
+        "brand_name": "Technisanct",
+        "company_domain": "Cyber-Security",
+        "registered_name": "T-SANCT TECHNOLOGIES PRIVATE LIMITED",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Technisanct is a big data cybersecurity startup based in India. They intend to fight the issues of\ncyber threats, the spread of misinformation, privacy and data breaches, negative campaigns using\nbig-data and artificial intelligence. They work on constantly innovating their flagship tool Integrite\nto identify threats.",
+        "foundedOn": "23/02/2018",
+        "office_location": "Kochi, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b406"
+    },
+    {
+        "logo": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1131782823870579",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b407",
+        "brand_name": "Wardo",
+        "company_domain": "abc",
+        "registered_name": "Wardo.Inc",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Wardo is building a SAAS (Software-as-a-Service) hyper personalised fashion styling platform that\nhelps fashion stylists and influencers get discovered, sell & provide their services completely online\nusing their digital tools. They are using their collective stylist expertise & deep learning AI to improve\nthe efficiency/turnover of these experts.",
+        "foundedOn": "16/06/20",
+        "office_location": "Gurgaon, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b407"
+    },
+    {
+        "logo": "https://play-lh.googleusercontent.com/pzVHvAr-JSNcQUS8VKmerDJySp07FOMQjD9aaATZlO9ExJxuaWvYLkhBMneiwJAn1xw",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b408",
+        "brand_name": "GameChest",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Gamechest is free and real money multiplayer gaming platform hosting contests across a plethora of games types. IT will fistribute SDKs (Software Development Kits) & expose aPI's which will enable 3rd party game devlopers to access Game Chest's user base to run real-money gaming contest on their apps, thus opeing a new moentisation channel.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b408"
+    },
+    {
+        "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQGHVTTI-cusXg/company-logo_200_200/0/1607087891243?e=2159024400&v=beta&t=LyrCceVg6EJZ-zcq72IsBS33jBZJmSBW9XiMgyedZHU",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b409",
+        "brand_name": "Answer Genomics",
+        "company_domain": "abc",
+        "registered_name": "Answer Genomics Pvt Ltd",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Answer Genomics is a genetic research organization building commercially viable genomic solutions\nfor the Indian population. It follows product oriented practical research to prognose, diagnose,\nprevent and cure a range of lifestyle and clinical disorders known to have a genetic basis. It brings\nGenomics, Nutrition Science, Exercise Physiology strung together on a backbone of Machine\nLearning for their Genomic Wellness Product.",
+        "foundedOn": "13/12/18",
+        "office_location": "Delhi, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b409"
+    },
+    {
+        "logo": "http://cdn.shopify.com/s/files/1/2722/7920/products/Ingredients_1200x1200.jpg?v=1605904247",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b40a",
+        "brand_name": "Adyalife",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b40a"
+    },
+    {
+        "logo": "https://pushlytics.in/wp-content/uploads/2019/09/Pushlytics-RGB_Logo-Horizontal-Lockup-Color-1.svg",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b40b",
+        "brand_name": "Pushlytics",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Pushlytics offer a smarter way to grow digital products. With Comprehensice data collection and structured process. Pushlytics helps compnaies undetstand their users, make data-driven decision and cradt delightful digital experiences.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b40b"
+    },
+    {
+        "logo": "http://hasora.in/wp-content/uploads/2019/03/logo.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b40c",
+        "brand_name": "Hasora",
+        "company_domain": "Agri-Tech",
+        "registered_name": "Hasora Organic India Pvt,Ltd.",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Hasora is Gurgaon’s most trusted Japanese organic groceries brand. They are linking health-\nconscious consumers with local farmers who require a marketplace to sell their products to bring\ntrust and safe-food for you. They provide pesticide-free vegetables and fruits delivered at your\ndoorsteps. Their uniqueness is that they deliver within 24 hours from the harvests. They offer a wide\nrange of products such as meats, cheese, natural and healthy processed foods.",
+        "foundedOn": "05/05/2016",
+        "office_location": "Gurgaon,India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b40c"
+    },
+    {
+        "logo": "https://cdn.razorpay.com/logos/Fv571spmRzZa99_large.jpeg",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b40d",
+        "brand_name": "EmpRyts",
+        "company_domain": "HR-Tech",
+        "registered_name": "EmpRyts Private Limited",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "EmpRyts is India's First Job Security Services that is Empowering & Supporting\nEmployee's or Labours For Their Employee Right's or Labour Law Right's. They Empower,\nSupport, Represent & Guide Employees in their Job related issues with their Employer.\nThey provide Full Support in field of Risk Management, Audit of critical documents\nProvide Full Legal support in case of any type of Employment related issues like Unlawful\nDiscrimination, Workplace Harassment, etc.",
+        "foundedOn": "25/02/2020",
+        "office_location": "Gurgaon,India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b40d"
+    },
+    {
+        "logo": "http://sportoze.com/images/logo.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b40e",
+        "brand_name": "Sportoze",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Sportoze is an online application Helps students in identifying BEST FIT GAME for an\nindividual through Analysis of various activities defined by our panel of Expert National\n& International Award Winning Coaches and Sportsmen. They aim to Provide Life\nLearning Engaging Experience to Students through Fun & Fitness. Their customised\nAlgorithm works on various criteria which leads to final selection of sports.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b40e"
+    },
+    {
+        "logo": "https://cdn.shopify.com/s/files/1/0265/0036/6394/files/Component_39_1.png?v=1596545773",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b40f",
+        "brand_name": "The Story Boxx",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "The Story Boxx helps compile and curate 21 Categories of materials that allow for a far\nmore convenient choice by creative people (Architects, Designers, decorators) in putting\ntogether Mood boards and Story boards that are so essential to the process of design\nand yet so time consuming and painful to put together!",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b40f"
+    },
+    {
+        "logo": "https://media-exp1.licdn.com/dms/image/C510BAQFstLsbLwQJSw/company-logo_200_200/0/1551161814048?e=2159024400&v=beta&t=lpGeMmkakyM5O_k7qhFWqaXNcWTD8Nbo3uZKY9qayBs",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b410",
+        "brand_name": "Eco Impulse",
+        "company_domain": "abc",
+        "registered_name": "ECOIMPULSE PRIVATE LIMITED",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "ECO IMPULSE is an Indian firm recognized by Startup India and started with a thought\nof providing a solution for extra renewable energy generation. Their first product is SCR-\n01, Solar Panel Cleaning Robot. SCR-01 is specifically developed to clean solar panels\nwith spotless technique without using a single drop of water",
+        "foundedOn": "29/01/21",
+        "office_location": "Ahmedabad, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b410"
+    },
+    {
+        "logo": "/dummy.jpg",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b411",
+        "brand_name": "The RollNumber",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b411"
+    },
+    {
+        "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/b5993922679119.56316a0ca4a90.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b412",
+        "brand_name": "Funddo",
+        "company_domain": "Fin-Tech",
+        "registered_name": "AREEVA PRODUCTS & SERVICES PRIVATE LIMITED",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Funddo redefines the way unorganized retail businesses get their funds. Instant loan and credit for business\noperations will empower the retailers to operate professionally. Real-time access to information about lending\nproducts will improve the customer lending experience.",
+        "foundedOn": "01/07/2017",
+        "office_location": "Gurgaon, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b412"
+    },
+    {
+        "logo": "/dummy.jpg",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b413",
+        "brand_name": "Breathe Air Purifier",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b413"
+    },
+    {
+        "logo": "https://www.exchange4media.com/news-photo/110431-boloindyafinal.jpg",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b415",
+        "brand_name": "BoloIndya",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Bolo Indya is India's fastest growing app for short knowledge videos in local languages. Empowering\nusers to create 2-minute videos sharing their knowledge, experience and opinions across interest\nareas, and taking the videos to the local language audience. Creators can earn and increase social\ncapital and consumers can become the part of a strongly knit interest-driven community.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b415"
+    },
+    {
+        "logo": "https://media-exp1.licdn.com/dms/image/C560BAQHpGBA4qRKDqw/company-logo_200_200/0/1589289732014?e=2159024400&v=beta&t=CQHrECxL4nMQg9IbvggzznmnFvewKyUT4nHgm29CL6Q",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b414",
+        "brand_name": "Invest19",
+        "company_domain": "Invest-Tech",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Invest19 is an infrastructure app for brokers while it is an aggregator app for investors to\noperate as a one-stop investment place. Invest19 is the platform that was missing in the\nIndian stock investment scene. Invest19 will make stock market investment for a new\ninvestor as easy as online shopping. It provides simplified research and data for informed\ninvestors to have a go-to app for all stock investments.",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b414"
+    },
+    {
+        "logo": "https://media-exp1.licdn.com/dms/image/C510BAQEeZLltX2f_Dg/company-logo_200_200/0/1579256905665?e=2159024400&v=beta&t=CHupjXjIndIDT4xOQOLIsgWmJsI-jxbf5Rjj9oPSdTY",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b416",
+        "brand_name": "CSCC Labs",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b416"
+    },
+    {
+        "logo": "https://pbs.twimg.com/profile_images/726704133693042689/k-zWfeB8_400x400.jpg",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b417",
+        "brand_name": "GreenOBazar",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b417"
+    },
+    {
+        "logo": "/dummy.jpg",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b418",
+        "brand_name": "Talent Tattoo",
+        "company_domain": "Entertainment",
+        "registered_name": "Talenttattoo Pvt Ltd",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "Talenttatto is a creative engagement platform which emplowers organizaions drive a diffrentiated and unique employee engagement strategy. An out of the box model usng employees' creative skills, hobbies & interest as a long-term engagement initative, emplowering employees to express their creative side.",
+        "foundedOn": "21/02/2018",
+        "office_location": "New Delhi, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b418"
+    },
+    {
+        "logo": "https://media-exp1.licdn.com/dms/image/C560BAQFnkzAyZO6nGw/company-logo_200_200/0/1609871505051?e=1624492800&v=beta&t=NKg2xW8eeP6H7abxi7KD-QyzK8Vz92n6bpFeKhQ61U4",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b419",
+        "brand_name": "Oh Local",
+        "company_domain": "E-commerce",
+        "registered_name": "O2O Mavericks",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "India’s local marketplace connecting merchants with consumers in their city via a smart real-time bidding platform with prices competitive against online retailers.",
+        "foundedOn": "25/01/2021",
+        "office_location": "Gurgaon, India",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b419"
+    },
+    {
+        "logo": "https://img.foodyas.com/3/2421702168063693/picture?type=large",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b41a",
+        "brand_name": "MOPP",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b41a"
+    },
+    {
+        "logo": "https://www.allindiajobs.in/wp-content/uploads/2018/08/aforesfeb16.gif",
+        "businessModel": "Saas",
+        "investor": [
+            "Amazon",
+            "Google",
+            "Sequoia"
+        ],
+        "_id": "6070786e1facf8ed1385b41b",
+        "brand_name": "Aforeserve",
+        "company_domain": "abc",
+        "registered_name": "xyz",
+        "founding_team": [
+            {
+                "name": "Elon Musk",
+                "designation": "CEO"
+            },
+            {
+                "name": "Maninder",
+                "designation": "CTO"
+            }
+        ],
+        "about": "",
+        "foundedOn": "",
+        "office_location": "",
+        "__v": 0,
+        "branchLocations": [],
+        "fundingHistory": [],
+        "pressRelease": [],
+        "totalFunding": 0,
+        "id": "6070786e1facf8ed1385b41b"
+    },
+    {
+        "headQuaters": {
+            "type": "Point",
+            "coordinates": []
+        },
+        "valuation": {
+            "preMoney": "162578",
+            "discounted": "162578",
+            "certifiedBy": "unKnown",
+            "currentlyRaising": "true"
+        },
+        "logo": "//www.livetube.tv/wp-content/uploads/2021/02/80_80-logo_livetube_400x400.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Json Todd",
+            "Julie Todd"
+        ],
+        "_id": "60b5dbb00450281a0812688a",
+        "brand_name": "Livetube",
+        "company_domain": "Livetube.com",
+        "registeredName": "Livetube ltd",
+        "about": "LiveTube is the world's first curated Live Video Platform. In a time of fake news, LiveTube aims to become the trusted source for live content. We enable everyone with a smartphone to become a citizen reporter and offer companies a unique tool to curate their internal and external live content. LiveTube's team of professiona",
+        "founding_team": [
+            {
+                "_id": "60b5dbb00450281a0812688b",
+                "highestQualification": "",
+                "college": "",
+                "collegeCategory": "",
+                "gender": "Male",
+                "dob": "",
+                "name": "Jan Herold",
+                "designation": "Chief Content Officer & Prime Time Host",
+                "dateJoined": null
+            }
+        ],
+        "foundedOn": "Jun 6, 2015",
+        "fundingHistory": [
+            {
+                "fundingDate": "2016-12-31T18:30:00.000Z",
+                "_id": "60b5dbb00450281a0812688c",
+                "fundingAmount": 162578,
+                "fundedBy": "Angel Investor",
+                "fundingRound": "Angel"
+            }
+        ],
+        "website": "livetube.com",
+        "branchLocations": [],
+        "pressRelease": [],
+        "__v": 0,
+        "totalFunding": 162578,
+        "id": "60b5dbb00450281a0812688a"
+    },
+    {
+        "headQuaters": {
+            "type": "Point",
+            "coordinates": []
+        },
+        "valuation": {
+            "preMoney": "162578",
+            "discounted": "162578",
+            "certifiedBy": "unKnown",
+            "currentlyRaising": "true"
+        },
+        "logo": "//www.Wikibox.kr/wp-content/uploads/2021/02/80_80-logo_livetube_400x400.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Elise Hop"
+        ],
+        "_id": "60b5dcee0450281a0812688d",
+        "brand_name": "Wikibox",
+        "company_domain": "Wikibox.kr",
+        "registeredName": "Wikibox ltd",
+        "about": "Wikibox is a non-face-to-face life service platform based on an unmanned storage box.",
+        "founding_team": [
+            {
+                "_id": "60b5dcee0450281a0812688e",
+                "highestQualification": "",
+                "college": "",
+                "collegeCategory": "",
+                "gender": "Male",
+                "dob": "",
+                "name": "eui Shin Jeong",
+                "designation": "Ceo",
+                "dateJoined": null
+            }
+        ],
+        "foundedOn": "Jun 6, 2015",
+        "fundingHistory": [
+            {
+                "fundingDate": "2016-12-31T18:30:00.000Z",
+                "_id": "60b5dcee0450281a0812688f",
+                "fundingAmount": 162578,
+                "fundedBy": "Angel Investor",
+                "fundingRound": "Angel"
+            }
+        ],
+        "website": "Wikibox.kr",
+        "branchLocations": [],
+        "pressRelease": [],
+        "__v": 0,
+        "totalFunding": 162578,
+        "id": "60b5dcee0450281a0812688d"
+    },
+    {
+        "headQuaters": {
+            "type": "Point",
+            "coordinates": []
+        },
+        "valuation": {
+            "preMoney": "26,665",
+            "discounted": "26,665",
+            "certifiedBy": "unKnown",
+            "currentlyRaising": "false"
+        },
+        "logo": "//www.Flashdog.com/wp-content/uploads/2021/02/80_80-logo_livetube_400x400.png",
+        "businessModel": "Saas",
+        "investor": [
+            "JPMorgan Chase Bank"
+        ],
+        "_id": "60b5e05daa61b124d8c7555c",
+        "brand_name": "Flashdog",
+        "company_domain": "Flashdog.com",
+        "registeredName": "Flashdog LLC",
+        "about": "Flashdog LLC is a limited liability company (LLC) located at 6611 N Oakland Ave in Indianapolis, Indiana that received a Coronavirus-related PPP loan from the SBA of $26,665.00 in April, 2021.",
+        "founding_team": [
+            {
+                "_id": "60b5e05daa61b124d8c7555d",
+                "highestQualification": "",
+                "college": "",
+                "collegeCategory": "",
+                "gender": "Male",
+                "dob": "",
+                "name": "Jeffrey Richard",
+                "designation": "Director",
+                "dateJoined": null
+            }
+        ],
+        "foundedOn": "Jun 6, 2015",
+        "fundingHistory": [
+            {
+                "fundingDate": "2021-04-23T00:00:00.000Z",
+                "_id": "60b5e05daa61b124d8c7555e",
+                "fundingAmount": 2102578,
+                "fundedBy": "JPMorgan Chase Bank, National Association",
+                "fundingRound": "Loan"
+            }
+        ],
+        "website": "Flashdog.com",
+        "branchLocations": [],
+        "pressRelease": [],
+        "__v": 0,
+        "totalFunding": 2102578,
+        "id": "60b5e05daa61b124d8c7555c"
+    },
+    {
+        "headQuaters": {
+            "type": "Point",
+            "coordinates": []
+        },
+        "valuation": {
+            "preMoney": "40000000",
+            "discounted": "20000000",
+            "certifiedBy": "unKnown",
+            "currentlyRaising": "false"
+        },
+        "logo": "//www.truex.com/wp-content/uploads/2021/02/80_80-logo_livetube_400x400.png",
+        "businessModel": "Saas",
+        "investor": [
+            "Joe Marchese"
+        ],
+        "_id": "60b5e452aa61b124d8c7555f",
+        "brand_name": "true[x]",
+        "company_domain": "truex.com",
+        "registeredName": "truex ltd",
+        "about": "True[x] is a next-gen digital ad-tech company that powers engagement advertising for some of the world's top brands. In today's online landscape where consumer attention is hard to capture, true[x]'s interactive ads deliver better results through deeper engagement by delivering an improved consumer experience and more powerful brand",
+        "founding_team": [
+            {
+                "_id": "60b5e452aa61b124d8c75560",
+                "highestQualification": "",
+                "college": "",
+                "collegeCategory": "",
+                "gender": "Male",
+                "dob": "",
+                "name": "Brandon Mills",
+                "designation": "President and Chief Operating Officer",
+                "dateJoined": null
+            },
+            {
+                "_id": "60b5e452aa61b124d8c75561",
+                "highestQualification": "",
+                "college": "",
+                "collegeCategory": "",
+                "gender": "Male",
+                "dob": "",
+                "name": "David Levy",
+                "designation": "CEO ",
+                "dateJoined": null
+            }
+        ],
+        "foundedOn": "Jun 14, 2018",
+        "fundingHistory": [
+            {
+                "fundingDate": "2021-04-23T00:00:00.000Z",
+                "_id": "60b5e452aa61b124d8c75562",
+                "fundingAmount": 50000000,
+                "fundedBy": "Norwest Venture Partners,RedPoint,Icon Ventures",
+                "fundingRound": "Series D"
+            }
+        ],
+        "website": "Flashdog.com",
+        "branchLocations": [],
+        "pressRelease": [],
+        "__v": 0,
+        "totalFunding": 50000000,
+        "id": "60b5e452aa61b124d8c7555f"
+    }
+]
+
+
