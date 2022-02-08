@@ -12,7 +12,7 @@ const cors = require("cors");
 const app = express();
 const mongoose = require('mongoose');
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 const dbUrl = process.env.DB_URL.replace('<password>', process.env.Password);;
 //database connect
 mongoose.connect(dbUrl, {
