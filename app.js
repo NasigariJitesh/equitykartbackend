@@ -1,5 +1,5 @@
 const express = require('express');
-const userRouter = require(`./routes/userRoutes`);
+// const userRouter = require(`./routes/userRoutes`);
 const adminRouter = require(`./routes/adminRoutes`);
 const organisationsRouter = require(`./routes/organisationsRoutes`);
 const mongoSanitize = require("express-mongo-sanitize");
