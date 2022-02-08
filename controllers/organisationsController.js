@@ -1,6 +1,6 @@
 const Organisation = require(`../models/organisations`);
-const AppError = require("../utils/AppError");
-const CatchAsync = require("../utils/CatchAsync");
+const AppError = require("../utils/appError");
+const CatchAsync = require("../utils/catchAsync");
 const Filters = require(`../utils/Filters`);
 
 exports.getAllorganisations = async (req, res) => {

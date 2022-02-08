@@ -1,7 +1,7 @@
 const User = require('../models/user');
 const CatchAsync = require('../utils/catchAsync.js')
 const jwt = require('jsonwebtoken')
-const AppError = require('../utils/AppError.js');
+const AppError = require('../utils/appError.js');
 const { promisify } = require('util');
 
 const signToken = (newUser, expiresIn) => {
