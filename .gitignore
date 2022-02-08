@@ -1,1 +1,7 @@
 node_modules
+# Elastic Beanstalk Files
+.elasticbeanstalk
+
+aws-elastic-beanstalk-cli-setup
+awseb
+.vscode
