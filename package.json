@@ -5,16 +5,16 @@
   "main": "index.js",
   "scripts": {
     "start": "node app/app.js",
-    "dev":"nodemon app/app.js",
+    "dev": "nodemon app/app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy":"heroku container:push web -a equitykartbackend && heroku container:release web -a equitykartbackend"
+    "deploy": "heroku container:push web -a equitykartbackend && heroku container:release web -a equitykartbackend"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
-    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
