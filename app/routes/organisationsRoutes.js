@@ -4,6 +4,8 @@ const {
     getAllorganisations,
     createorganisations,
     getOneorganisations,
+    updateorganisations,
+    deleteorganisations,
     showInterest,
     removeInterest
 } = require(`../controllers/organisationsController`);
@@ -15,8 +17,8 @@ router.route('/')
 
 router.route('/:id')
     .get(protect(true), getOneorganisations)
-    .patch(protect(true),organisationsController.updateorganisations)
-    .delete(protect(true),organisationsController.deleteorganisations);
+    .patch(protect(true), updateorganisations)
+    .delete(protect(true), deleteorganisations);
 
 router.route('/:id/interested')
     .post(protect(), showInterest)
