@@ -26,7 +26,7 @@ mongoose.connect(dbUrl, {
   console.log(err);
 })
 var corsOptions = {
-  origin: "*",
+  origin:["http://localhost:3000/","https://equitykarttest.netlify.app/","https://equitykart.com/","http://ekback-dev.ap-south-1.elasticbeanstalk.com/"],
   methods: ["GET","HEAD","PUT","PATCH","POST","DELETE"],
   preflightContinue: false,
   allowedHeaders:['Content-Type', 'Authorization'],
