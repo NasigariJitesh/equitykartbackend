@@ -26,24 +26,14 @@ mongoose.connect(dbUrl, {
   console.log(err);
 })
 
-
+app.use(cors());
 app.use(express.json());
 app.use(mongoSanitize());
-
-app.use(function (req, res, next) {
-  res.setHeader("Access-Control-Allow-Origin", "*");
-  res.setHeader("Access-Control-Allow-Credentials", "true");
-  res.setHeader("Access-Control-Allow-Methods", "GET,HEAD,OPTIONS,POST,PUT,PATCH");
-  res.setHeader("Access-Control-Allow-Headers", "Access-Control-Allow-Headers, Origin,Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Authorization, Access-Control-Request-Headers");
-    next();
-})
 
 app.use('/api/users',userRouter);
 app.use('/api/listings', organisationsRouter);
 app.use('/api/admin', adminRouter);
-app.get("/", (req, res) => {
-  res.send("Welcome To Équitykart API");
-});
+
 app.use(erroHandler)
 
 
