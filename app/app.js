@@ -44,7 +44,9 @@ app.use(mongoSanitize());
 app.use('/api/users',userRouter);
 app.use('/api/listings', organisationsRouter);
 app.use('/api/admin', adminRouter);
-
+app.get("/", (req, res) => {
+  res.send("Welcome To Equitykart API");
+});
 app.use(erroHandler)
 
 
