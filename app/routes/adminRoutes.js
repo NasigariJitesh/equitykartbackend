@@ -6,7 +6,7 @@ const oC= require(`../controllers/organisationsController`);
 router.route('/allUserInterests')
     .get(uC.protect(), uC.restrictTo('Admin'), uC.getAllUsersInterestedListings);
 router.route('/organisation/:id')
-    .put(uC.protect(), uC.restrictTo('Admin'),oC.updateorganisations)
+    .patch(uC.protect(), uC.restrictTo('Admin'),oC.updateorganisations)
     .delete(uC.protect(), uC.restrictTo('Admin'),oC.deleteorganisations)
 
 router.route('/add').post(uC.protect(), uC.restrictTo('Admin'),oC.createorganisations);

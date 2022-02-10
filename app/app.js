@@ -25,8 +25,19 @@ mongoose.connect(dbUrl, {
 }).catch((err) => {
   console.log(err);
 })
+const corsOptions = {
+  origin: [
+    "http://localhost:3000",
+    "http://ekback-dev.ap-south-1.elasticbeanstalk.com",
+    "https://equitykart.com/",
+    "https://equitykarttest.netlify.app/",
+  ],
+  optionsSuccessStatus: 200,
+  // some legacy browsers (IE11, various SmartTVs) choke on 204
+  credentials: true,
+};
 
-app.use(cors());
+app.use(cors(corsOptions));
 app.use(express.json());
 app.use(mongoSanitize());
 
