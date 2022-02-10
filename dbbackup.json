@@ -2,11 +2,7 @@
     {
         "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEC7j3_PQTlPw/company-logo_200_200/0/1598054396808?e=2159024400&v=beta&t=GRRoGh_WAKq0uIg4TyGy39BdKCi1UU26WVLoToKLIzg",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Prophaze Technologies",
         "company_domain": "cybersecurity",
@@ -34,11 +30,7 @@
     {
         "logo": "https://play-lh.googleusercontent.com/brmCIHrvz1Z7dEUskGLA_hJLsfORtU0LH8SFZ_ryGbb-_xkwrp7kxB22nb-GOWuOwNc",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Arivihan",
         "company_domain": "Ed-Tech",
@@ -66,11 +58,7 @@
     {
         "logo": "https://media-exp1.licdn.com/dms/image/C560BAQGyDwD3_MHlzA/company-logo_200_200/0/1601698367193?e=2159024400&v=beta&t=TI_6NEwiSMqYmztR-npzRVvS7I3NJA8R4n6QoTpWZro",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "mHealth",
         "company_domain": "healthtech",
@@ -98,11 +86,7 @@
     {
         "logo": "https://www.grouple.in/wp-content/themes/twentytwenty/assets/favicon/Grouple.jpeg",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Grouple",
         "company_domain": "Entertainment",
@@ -130,11 +114,7 @@
     {
         "logo": "https://naturestattva.com/wp-content/uploads/2019/03/natures-tattva-logo-in-circle.png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Nature's Tattva",
         "company_domain": "Beauty",
@@ -162,11 +142,7 @@
     {
         "logo": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=555040017937332",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Prophaze",
         "company_domain": "Cyber Security",
@@ -194,11 +170,7 @@
     {
         "logo": "https://www.cisecurity.org/wp-content/uploads/2020/10/SecLogic-e1609952154672.png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Seclogic",
         "company_domain": "Cyber Security",
@@ -226,11 +198,7 @@
     {
         "logo": "Ser",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "AtServe",
         "company_domain": "Water Distribution",
@@ -258,11 +226,7 @@
     {
         "logo": "https://media-exp1.licdn.com/dms/image/C510BAQHyiuaWPIo2dw/company-logo_200_200/0/1572869984447?e=2159024400&v=beta&t=qV_CwgCKtzpgGYWmE3lDdlGoReLq6DjXZymkPrl9PQw",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Deliver Fuels",
         "company_domain": "abc",
@@ -290,11 +254,7 @@
     {
         "logo": "https://uploads-ssl.webflow.com/5f5883370f915e4e20ded68e/5f78184365ebcbb7e8da8df7_getwork_new%20(1).png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "GetWork",
         "company_domain": "Ed-Tech & HR Tech",
@@ -322,11 +282,7 @@
     {
         "logo": "https://static.wixstatic.com/media/b1c4ed_2486bc8dc8e44a24afae2323a2091081~mv2.png/v1/fill/w_168,h_168,al_c,q_85,usm_0.66_1.00_0.01/Horeca%20Stop%20Logo%20Final.webp",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Horeca Stop",
         "company_domain": "Hospitality",
@@ -354,11 +310,7 @@
     {
         "logo": "https://s3.amazonaws.com/zaubatrademarks/2f8e86e3-678d-4137-bd32-22b462f8083d.png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Minzo",
         "company_domain": "M Commerce",
@@ -386,11 +338,7 @@
     {
         "logo": "https://images.yourstory.com/cs/images/companies/380139982527156721228575236573300087324672o-1594363098928.jpg?fm=png&auto=formatar=1:1&mode=fill&fill=solid",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Brainwired",
         "company_domain": "Agri-tech",
@@ -418,11 +366,7 @@
     {
         "logo": "https://cdn.shopify.com/s/files/1/0064/7004/1655/files/Organic-Brews-Logo-2-11th-Dec_dfd9df2b-6e36-4a73-b383-ff57170ab070.jpg?height=628&pad_color=ffffff&v=1607682782&width=1200",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Organic Brews",
         "company_domain": "FMCG, Agritech",
@@ -450,11 +394,7 @@
     {
         "logo": "https://dhurina.net/dhurinanew/images/logo.png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Dhurina",
         "company_domain": "Ed-Tech",
@@ -482,11 +422,7 @@
     {
         "logo": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/uyhfywa0gux074dsvsiq",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "VAPP",
         "company_domain": "AR/VR",
@@ -514,11 +450,7 @@
     {
         "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQH8YoOhp3Nmog/company-logo_200_200/0/1597565144339?e=2159024400&v=beta&t=xYsgGdTDglhT3EhyvpfdSoWRXM5Ot3uCk6Hs9bouwyw",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "DROR",
         "company_domain": "Security",
@@ -546,11 +478,7 @@
     {
         "logo": "https://www.galaxycard.in/img/logo.svg",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Galaxy Card",
         "company_domain": "Fintech",
@@ -578,11 +506,7 @@
     {
         "logo": "https://cdn.shopify.com/s/files/1/1806/1451/files/newlogo_large.png?v=1498108755",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Recycle.Green",
         "company_domain": "Recycled Products",
@@ -610,11 +534,7 @@
     {
         "logo": "https://quali55care.com/wp-content/uploads/2019/12/logo2-1.png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Quali55Care",
         "company_domain": "Healthcare",
@@ -642,11 +562,7 @@
     {
         "logo": "https://mma.prnewswire.com/media/527780/Ingenium___Canada_s_Museums_of_Science_and_Innovation_Ingenium_l.jpg?p=publish",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Ingenium",
         "company_domain": "Ed-Tech",
@@ -674,11 +590,7 @@
     {
         "logo": "https://sgp1.digitaloceanspaces.com/quickcompany/trademark/33895938c07f4359.jpg",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Ingreens",
         "company_domain": "Agritech",
@@ -706,11 +618,7 @@
     {
         "logo": "https://media-exp1.licdn.com/dms/image/C510BAQH6qPunA_n8CQ/company-logo_200_200/0/1536150103237?e=2159024400&v=beta&t=6LIvIhjPFd6BiGXxMCLH7gAuhK5IBoJZ_rY-t8GjQVE",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Playtoome",
         "company_domain": "Media & Entertainment",
@@ -738,11 +646,7 @@
     {
         "logo": "https://media-exp1.licdn.com/dms/image/C560BAQGlDM-1DqBfXA/company-logo_200_200/0/1519905922586?e=2159024400&v=beta&t=mbdOdkFEeA8BmX5QUvbSmJXAiFpVUArbswEWe2x-9hc",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Lawyered",
         "company_domain": "Legal",
@@ -770,11 +674,7 @@
     {
         "logo": "https://techstory.in/wp-content/uploads/2018/01/kuants.png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Kuants",
         "company_domain": "Algo Trading",
@@ -802,11 +702,7 @@
     {
         "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFIUw96ctWz2w/company-logo_200_200/0/1568646037860?e=2159024400&v=beta&t=aKQRS4jO0--TjyalOcBouBlFZsXEVg2hfcz4KzZeqg8",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "IAC",
         "company_domain": "abc",
@@ -834,11 +730,7 @@
     {
         "logo": "https://ialabs.co.in/wp-content/uploads/2020/10/Dark_logo.png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "IA Labs",
         "company_domain": "Ed-Tech",
@@ -866,11 +758,7 @@
     {
         "logo": "https://www.mobigarage.com/images/logo.png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Mobigarage",
         "company_domain": "abc",
@@ -898,11 +786,7 @@
     {
         "logo": "https://e27.co/img/startups/25475/logo-1537179794.png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Bean Bag Theory Media",
         "company_domain": "Entertainment",
@@ -930,11 +814,7 @@
     {
         "logo": "https://cdn.shopify.com/s/files/1/1806/1451/t/2/assets/sco_logo.png?v=1298623268892481383",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Innovate Green",
         "company_domain": "abc",
@@ -962,11 +842,7 @@
     {
         "logo": "https://media-exp1.licdn.com/dms/image/C560BAQG80JbOGiSapg/company-logo_200_200/0/1551459162880?e=2159024400&v=beta&t=KlmayjANS6CXt_Rea9CiSHJ1ES3W-0LxsMEZgknZ8M8",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Quali5care",
         "company_domain": "abc",
@@ -994,11 +870,7 @@
     {
         "logo": "https://www.highiq.ai/wp-content/uploads/2020/07/Linkedin_logo_square.png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "HighIQ",
         "company_domain": "abc",
@@ -1026,11 +898,7 @@
     {
         "logo": "https://sgp1.digitaloceanspaces.com/quickcompany/trademark/81ab215b157357ec.jpg",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "My game mate(MGM)",
         "company_domain": "abc",
@@ -1058,11 +926,7 @@
     {
         "logo": "https://gotomobility.in/images/generic/GoTo_logo_header.png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Goto",
         "company_domain": "abc",
@@ -1090,11 +954,7 @@
     {
         "logo": "https://fitbuddy.co.in/static/media/logo.149a868a.png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Fitbuddy",
         "company_domain": "Sports, Deeptech",
@@ -1122,11 +982,7 @@
     {
         "logo": "https://cdn.shopify.com/s/files/1/0064/7004/1655/files/Organic-Brews-Logo-2-11th-Dec_dfd9df2b-6e36-4a73-b383-ff57170ab070.jpg?height=628&pad_color=ffffff&v=1607682782&width=1200",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Organic Brews",
         "company_domain": "abc",
@@ -1154,11 +1010,7 @@
     {
         "logo": "https://media-exp1.licdn.com/dms/image/C560BAQGxmokK0jGYlw/company-logo_200_200/0/1519875603470?e=2159024400&v=beta&t=MLk8guo8UhL2Rx8eORgqzRj5VTTAkxTC297zxlKrIjg",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "GatewayVR",
         "company_domain": "abc",
@@ -1186,11 +1038,7 @@
     {
         "logo": "https://www.hypermine.in/wp-content/uploads/2019/12/vid_verlay.jpg",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Hypermine",
         "company_domain": "abc",
@@ -1218,11 +1066,7 @@
     {
         "logo": "http://img1.wsimg.com/isteam/ip/dd186539-c63c-4f94-9788-9ab2ed852b9e/logo/e3bde2dc-df1a-4500-866b-c57182d983ba.png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Wardrobe",
         "company_domain": "abc",
@@ -1250,11 +1094,7 @@
     {
         "logo": "https://sgp1.digitaloceanspaces.com/quickcompany/trademark/33895938c07f4359.jpg",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Hyperion Agro sciences(Ingreens)",
         "company_domain": "abc",
@@ -1282,11 +1122,7 @@
     {
         "logo": "https://media-exp1.licdn.com/dms/image/C510BAQHDDDd18y4I9w/company-logo_200_200/0/1533735619660?e=2159024400&v=beta&t=D0yxbq1xLkvPCCPdYjCzK1vWW3shtVpuupL6LPwFUmE",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Ubiqc",
         "company_domain": "abc",
@@ -1314,11 +1150,7 @@
     {
         "logo": "https://astechnolutions.com/images/ASLogo_Final(1024x1204).png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "AS Technolutions",
         "company_domain": "abc",
@@ -1346,11 +1178,7 @@
     {
         "logo": "https://www.technisanct.com/images/logo.svg",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Technisanct",
         "company_domain": "Cyber-Security",
@@ -1378,11 +1206,7 @@
     {
         "logo": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1131782823870579",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Wardo",
         "company_domain": "abc",
@@ -1410,11 +1234,7 @@
     {
         "logo": "https://play-lh.googleusercontent.com/pzVHvAr-JSNcQUS8VKmerDJySp07FOMQjD9aaATZlO9ExJxuaWvYLkhBMneiwJAn1xw",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "GameChest",
         "company_domain": "abc",
@@ -1442,11 +1262,7 @@
     {
         "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQGHVTTI-cusXg/company-logo_200_200/0/1607087891243?e=2159024400&v=beta&t=LyrCceVg6EJZ-zcq72IsBS33jBZJmSBW9XiMgyedZHU",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Answer Genomics",
         "company_domain": "abc",
@@ -1474,11 +1290,7 @@
     {
         "logo": "http://cdn.shopify.com/s/files/1/2722/7920/products/Ingredients_1200x1200.jpg?v=1605904247",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Adyalife",
         "company_domain": "abc",
@@ -1506,11 +1318,7 @@
     {
         "logo": "https://pushlytics.in/wp-content/uploads/2019/09/Pushlytics-RGB_Logo-Horizontal-Lockup-Color-1.svg",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Pushlytics",
         "company_domain": "abc",
@@ -1538,11 +1346,7 @@
     {
         "logo": "http://hasora.in/wp-content/uploads/2019/03/logo.png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Hasora",
         "company_domain": "Agri-Tech",
@@ -1570,11 +1374,7 @@
     {
         "logo": "https://cdn.razorpay.com/logos/Fv571spmRzZa99_large.jpeg",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "EmpRyts",
         "company_domain": "HR-Tech",
@@ -1602,11 +1402,7 @@
     {
         "logo": "http://sportoze.com/images/logo.png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Sportoze",
         "company_domain": "abc",
@@ -1634,11 +1430,7 @@
     {
         "logo": "https://cdn.shopify.com/s/files/1/0265/0036/6394/files/Component_39_1.png?v=1596545773",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "The Story Boxx",
         "company_domain": "abc",
@@ -1666,11 +1458,7 @@
     {
         "logo": "https://media-exp1.licdn.com/dms/image/C510BAQFstLsbLwQJSw/company-logo_200_200/0/1551161814048?e=2159024400&v=beta&t=lpGeMmkakyM5O_k7qhFWqaXNcWTD8Nbo3uZKY9qayBs",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Eco Impulse",
         "company_domain": "abc",
@@ -1698,11 +1486,7 @@
     {
         "logo": "/dummy.jpg",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "The RollNumber",
         "company_domain": "abc",
@@ -1730,11 +1514,7 @@
     {
         "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/b5993922679119.56316a0ca4a90.png",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Funddo",
         "company_domain": "Fin-Tech",
@@ -1762,11 +1542,7 @@
     {
         "logo": "/dummy.jpg",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Breathe Air Purifier",
         "company_domain": "abc",
@@ -1794,11 +1570,7 @@
     {
         "logo": "https://www.exchange4media.com/news-photo/110431-boloindyafinal.jpg",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "BoloIndya",
         "company_domain": "abc",
@@ -1826,11 +1598,7 @@
     {
         "logo": "https://media-exp1.licdn.com/dms/image/C560BAQHpGBA4qRKDqw/company-logo_200_200/0/1589289732014?e=2159024400&v=beta&t=CQHrECxL4nMQg9IbvggzznmnFvewKyUT4nHgm29CL6Q",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Invest19",
         "company_domain": "Invest-Tech",
@@ -1858,11 +1626,7 @@
     {
         "logo": "https://media-exp1.licdn.com/dms/image/C510BAQEeZLltX2f_Dg/company-logo_200_200/0/1579256905665?e=2159024400&v=beta&t=CHupjXjIndIDT4xOQOLIsgWmJsI-jxbf5Rjj9oPSdTY",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "CSCC Labs",
         "company_domain": "abc",
@@ -1890,11 +1654,7 @@
     {
         "logo": "https://pbs.twimg.com/profile_images/726704133693042689/k-zWfeB8_400x400.jpg",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "GreenOBazar",
         "company_domain": "abc",
@@ -1922,11 +1682,7 @@
     {
         "logo": "/dummy.jpg",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Talent Tattoo",
         "company_domain": "Entertainment",
@@ -1954,11 +1710,7 @@
     {
         "logo": "https://media-exp1.licdn.com/dms/image/C560BAQFnkzAyZO6nGw/company-logo_200_200/0/1609871505051?e=1624492800&v=beta&t=NKg2xW8eeP6H7abxi7KD-QyzK8Vz92n6bpFeKhQ61U4",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Oh Local",
         "company_domain": "E-commerce",
@@ -1986,11 +1738,7 @@
     {
         "logo": "https://img.foodyas.com/3/2421702168063693/picture?type=large",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "MOPP",
         "company_domain": "abc",
@@ -2018,11 +1766,7 @@
     {
         "logo": "https://www.allindiajobs.in/wp-content/uploads/2018/08/aforesfeb16.gif",
         "businessModel": "Saas",
-        "investor": [
-            "Amazon",
-            "Google",
-            "Sequoia"
-        ],
+        "investors":[],
         
         "brand_name": "Aforeserve",
         "company_domain": "abc",

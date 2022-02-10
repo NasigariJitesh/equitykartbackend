@@ -25,15 +25,8 @@ mongoose.connect(dbUrl, {
 }).catch((err) => {
   console.log(err);
 })
-var corsOptions = {
-  origin:["http://localhost:3000/","https://equitykarttest.netlify.app/","https://equitykart.com/","http://ekback-dev.ap-south-1.elasticbeanstalk.com/"],
-  methods: ["GET","HEAD","PUT","PATCH","POST","DELETE"],
-  preflightContinue: false,
-  allowedHeaders:['Content-Type', 'Authorization'],
-  credentials: true,
-  optionsSuccessStatus: 204
-}
-app.use(cors(corsOptions));
+
+app.use(cors());
 app.use(express.json());
 app.use(mongoSanitize());
 
