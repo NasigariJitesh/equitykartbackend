@@ -25,40 +25,27 @@ const organisationSchema = new mongoose.Schema({
     },
     businessModel: {
         type: String,
-        enum: ['Saas', 'Ecom'],
-        default: 'Saas'
     },
     investor: [
         {
-            type: String,
-            required: true
+            name: {
+                type: String,
+                required: true
+            }
         }
     ],
     founding_team: [
         {
             highestQualification: String,
-            college: String,
-            collegeCategory: String,
-            gender: String,
-            dob: String,
             name: { type: String, required: true, minlemgth: 3 },
             designation: String,
-            dateJoined: Date
+            dateJoined: String
         }
     ],
     foundedOn: {
         type: String
     },
-    headQuaters: {
-        // type: {
-        //     type: String,
-        //     default: 'Point',
-        //     enum: ['Point']
-        // },
-        // coordinates: [Number],
-        address: String,
-        description: String
-    },
+    headQuaters: String,
     branchLocations: [{
         // type: {
         //     type: String,
@@ -71,13 +58,11 @@ const organisationSchema = new mongoose.Schema({
     }],
     fundingHistory: [{
         fundingDate: {
-            type: Date,
-            required: true,
+            type: String,
             default: '1987-09-28'
         },
         fundingAmount: {
             type: Number,
-            required: true,
         },
         fundedBy: {
             type: String,

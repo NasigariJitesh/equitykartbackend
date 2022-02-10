@@ -1,4 +1,4 @@
-const Organisation = require(`../models/organisations`);
+const Organisation = require('../models/organisations');
 const AppError = require("../utils/appError");
 const CatchAsync = require("../utils/catchAsync");
 const Filters = require(`../utils/Filters`);
