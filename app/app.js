@@ -25,30 +25,7 @@ mongoose.connect(dbUrl, {
 }).catch((err) => {
   console.log(err);
 })
-var whitelist =[
-  "http://localhost:3000",
-  "http://ekback-dev.ap-south-1.elasticbeanstalk.com",
-  "https://equitykart.com/",
-  "https://equitykarttest.netlify.app/",
-];
-var corsOptions = {
-  origin: function (origin, callback) {
-    if (whitelist.indexOf(origin) !== -1) {
-      callback(null, true)
-    } else {
-      callback(new Error('Not allowed by CORS'))
-    }
-  },
-  optionsSuccessStatus: 200,
-  credentials: true
-}
 
-app.use(cors());
-app.use(function (req, res, next) {
-    res.header("Access-Control-Allow-Origin", "*");
-    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-    next();
-  });
 app.use(express.json());
 app.use(mongoSanitize());
 
@@ -56,7 +33,7 @@ app.use('/api/users',userRouter);
 app.use('/api/listings', organisationsRouter);
 app.use('/api/admin', adminRouter);
 app.get("/", (req, res) => {
-  res.send("Welcome To Equitykart API");
+  res.send("Welcome To Équitykart API");
 });
 app.use(erroHandler)
 
