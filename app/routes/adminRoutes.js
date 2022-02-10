@@ -9,6 +9,6 @@ router.route('/organisation/:id')
     .put(uC.protect(), uC.restrictTo('Admin'),oC.updateorganisations)
     .delete(uC.protect(), uC.restrictTo('Admin'),oC.deleteorganisations)
 
-router.route('/add').post(oC.createorganisations);
+router.route('/add').post(uC.protect(), uC.restrictTo('Admin'),oC.createorganisations);
 
 module.exports = router;

@@ -17,9 +17,6 @@ router.route('/')
 
 router.route('/:id')
     .get(protect(true), getOneorganisations)
-    .patch(protect(true), updateorganisations)
-    .delete(protect(true), deleteorganisations);
-
 router.route('/:id/interested')
     .post(protect(), showInterest)
     .delete(protect(), removeInterest);
