@@ -25,17 +25,23 @@ mongoose.connect(dbUrl, {
 }).catch((err) => {
   console.log(err);
 })
-const corsOptions = {
-  origin: [
-    "http://localhost:3000",
-    "http://ekback-dev.ap-south-1.elasticbeanstalk.com",
-    "https://equitykart.com/",
-    "https://equitykarttest.netlify.app/",
-  ],
+var whitelist =[
+  "http://localhost:3000",
+  "http://ekback-dev.ap-south-1.elasticbeanstalk.com",
+  "https://equitykart.com/",
+  "https://equitykarttest.netlify.app/",
+];
+var corsOptions = {
+  origin: function (origin, callback) {
+    if (whitelist.indexOf(origin) !== -1) {
+      callback(null, true)
+    } else {
+      callback(new Error('Not allowed by CORS'))
+    }
+  },
   optionsSuccessStatus: 200,
-  // some legacy browsers (IE11, various SmartTVs) choke on 204
-  credentials: true,
-};
+  credentials: true
+}
 
 app.use(cors(corsOptions));
 app.use(express.json());
